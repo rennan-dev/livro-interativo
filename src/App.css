@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+}
+  
+.titulo {
+    font-size: 2rem;
+    margin-top: 20px;
+    color: #333;
+}
+  
+.livro-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+  
+.pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    min-width: 300px;
+    min-height: 400px;
+    text-align: center;
+}
+  
+.pagina h1 {
+    margin-bottom: 20px;
+}
+  
+.pagina p {
+    font-size: 1.2rem;
+    color: #444;
+}
+  
